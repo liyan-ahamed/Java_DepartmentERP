@@ -1,0 +1,30 @@
+{
+  "year": 2026,
+  "reference": "College holiday calendar 2026 (supplied by the department)",
+  "holidays": [
+    { "date": "2026-01-01", "name": "New Year's Day" },
+    { "date": "2026-01-15", "name": "Pongal" },
+    { "date": "2026-01-16", "name": "Thiruvalluvar Day" },
+    { "date": "2026-01-17", "name": "Uzhavar Thirunal" },
+    { "date": "2026-01-23", "name": "Project Day - Classes Suspended" },
+    { "date": "2026-01-26", "name": "Republic Day" },
+    { "date": "2026-03-19", "name": "Telugu New Year's Day" },
+    { "date": "2026-03-21", "name": "Ramzan" },
+    { "date": "2026-03-31", "name": "Mahaveer Jayanthi" },
+    { "date": "2026-04-03", "name": "Good Friday" },
+    { "date": "2026-04-14", "name": "Tamil New Year's Day" },
+    { "date": "2026-04-23", "name": "Legislative Assembly Election 2026" },
+    { "date": "2026-05-01", "name": "May Day" },
+    { "date": "2026-05-28", "name": "Bakrid" },
+    { "date": "2026-06-26", "name": "Muharram" },
+    { "date": "2026-08-15", "name": "Independence Day" },
+    { "date": "2026-08-26", "name": "Milad-un-Nabi" },
+    { "date": "2026-09-04", "name": "Krishna Jayanthi" },
+    { "date": "2026-09-14", "name": "Vinayakar Chaturthi" },
+    { "date": "2026-10-02", "name": "Gandhi Jayanthi" },
+    { "date": "2026-10-19", "name": "Ayudha Pooja" },
+    { "date": "2026-10-20", "name": "Vijaya Dasami" },
+    { "date": "2026-11-08", "name": "Deepavali" },
+    { "date": "2026-12-25", "name": "Christmas" }
+  ]
+}

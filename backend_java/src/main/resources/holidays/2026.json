@@ -1,0 +1,55 @@
+{
+  "year": 2026,
+  "sources": [
+    {
+      "scope": "NATIONAL",
+      "reference": "DoPT O.M. F.No.12/2/2023-JCA dated 03-07-2025 (compulsory holidays)",
+      "notes": "The 14 compulsory holidays for Central Government offices. The 3 additional holidays each state's coordination committee picks from the optional list, and restricted holidays, are not included."
+    },
+    {
+      "scope": "TAMIL_NADU",
+      "reference": "Tamil Nadu G.O.(Ms.) No.708 (Nov 2025), Negotiable Instruments Act 1881",
+      "notes": "23 of the 24 notified days. Left out: 01-04-2026 Annual Closing of Bank Accounts (banks only; government offices stay open). Islamic festival dates are subject to moon sighting."
+    }
+  ],
+  "holidays": [
+    { "date": "2026-01-26", "name": "Republic Day", "scope": "NATIONAL" },
+    { "date": "2026-03-21", "name": "Id-ul-Fitr", "scope": "NATIONAL" },
+    { "date": "2026-03-31", "name": "Mahavir Jayanti", "scope": "NATIONAL" },
+    { "date": "2026-04-03", "name": "Good Friday", "scope": "NATIONAL" },
+    { "date": "2026-05-01", "name": "Buddha Purnima", "scope": "NATIONAL" },
+    { "date": "2026-05-27", "name": "Id-ul-Zuha (Bakrid)", "scope": "NATIONAL" },
+    { "date": "2026-06-26", "name": "Muharram", "scope": "NATIONAL" },
+    { "date": "2026-08-15", "name": "Independence Day", "scope": "NATIONAL" },
+    { "date": "2026-08-26", "name": "Milad-un-Nabi (Birthday of Prophet Mohammad)", "scope": "NATIONAL" },
+    { "date": "2026-10-02", "name": "Mahatma Gandhi's Birthday", "scope": "NATIONAL" },
+    { "date": "2026-10-20", "name": "Dussehra", "scope": "NATIONAL" },
+    { "date": "2026-11-08", "name": "Diwali (Deepavali)", "scope": "NATIONAL" },
+    { "date": "2026-11-24", "name": "Guru Nanak's Birthday", "scope": "NATIONAL" },
+    { "date": "2026-12-25", "name": "Christmas Day", "scope": "NATIONAL" },
+
+    { "date": "2026-01-01", "name": "New Year's Day", "scope": "TAMIL_NADU" },
+    { "date": "2026-01-15", "name": "Pongal", "scope": "TAMIL_NADU" },
+    { "date": "2026-01-16", "name": "Thiruvalluvar Day", "scope": "TAMIL_NADU" },
+    { "date": "2026-01-17", "name": "Uzhavar Thirunal", "scope": "TAMIL_NADU" },
+    { "date": "2026-01-26", "name": "Republic Day", "scope": "TAMIL_NADU" },
+    { "date": "2026-02-01", "name": "Thai Poosam", "scope": "TAMIL_NADU" },
+    { "date": "2026-03-19", "name": "Telugu New Year's Day", "scope": "TAMIL_NADU" },
+    { "date": "2026-03-21", "name": "Ramzan (Id-ul-Fitr)", "scope": "TAMIL_NADU" },
+    { "date": "2026-03-31", "name": "Mahaveer Jayanthi", "scope": "TAMIL_NADU" },
+    { "date": "2026-04-03", "name": "Good Friday", "scope": "TAMIL_NADU" },
+    { "date": "2026-04-14", "name": "Tamil New Year's Day / Dr. B.R. Ambedkar's Birthday", "scope": "TAMIL_NADU" },
+    { "date": "2026-05-01", "name": "May Day", "scope": "TAMIL_NADU" },
+    { "date": "2026-05-28", "name": "Bakrid (Id-ul-Azha)", "scope": "TAMIL_NADU" },
+    { "date": "2026-06-26", "name": "Muharram", "scope": "TAMIL_NADU" },
+    { "date": "2026-08-15", "name": "Independence Day", "scope": "TAMIL_NADU" },
+    { "date": "2026-08-26", "name": "Milad-un-Nabi", "scope": "TAMIL_NADU" },
+    { "date": "2026-09-04", "name": "Krishna Jayanthi", "scope": "TAMIL_NADU" },
+    { "date": "2026-09-14", "name": "Vinayakar Chathurthi", "scope": "TAMIL_NADU" },
+    { "date": "2026-10-02", "name": "Gandhi Jayanthi", "scope": "TAMIL_NADU" },
+    { "date": "2026-10-19", "name": "Ayutha Pooja", "scope": "TAMIL_NADU" },
+    { "date": "2026-10-20", "name": "Vijaya Dasami", "scope": "TAMIL_NADU" },
+    { "date": "2026-11-08", "name": "Deepavali", "scope": "TAMIL_NADU" },
+    { "date": "2026-12-25", "name": "Christmas", "scope": "TAMIL_NADU" }
+  ]
+}
